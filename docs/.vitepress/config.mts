@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  base: '/personal-blog/',
   title: 'Ricey 的学习博客',
   description: '记录 Linux、Git、Rust 和 rCore 的学习过程',
   lang: 'zh-CN',
