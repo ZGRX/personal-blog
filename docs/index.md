@@ -7,11 +7,11 @@ hero:
   tagline: 一边记录普通生活里的瞬间，一边整理 Linux、Git、Rust 和 rCore 的学习过程。
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /posts/
+      text: 生活笔记
+      link: /life/
     - theme: alt
-      text: 关于我
-      link: /about
+      text: 学习笔记
+      link: /study/
 
 features:
   - title: 生活笔记

@@ -8,24 +8,27 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/' },
+      { text: '生活', link: '/life/' },
+      { text: '学习', link: '/study/' },
       { text: '关于', link: '/about' }
     ],
     sidebar: {
-      '/posts/': [
+      '/life/': [
         {
-          text: '生活记录',
+          text: '生活笔记',
           items: [
-            { text: '第一篇：从今天开始记录生活', link: '/posts/start-life-blog' },
-            { text: '一个普通下午', link: '/posts/ordinary-afternoon' },
-            { text: '最近想留下的事', link: '/posts/recent-thoughts' }
+            { text: '从今天开始记录生活', link: '/life/start-life-blog' },
+            { text: '一个普通下午', link: '/life/ordinary-afternoon' },
+            { text: '最近想留下的事', link: '/life/recent-thoughts' }
           ]
-        },
+        }
+      ],
+      '/study/': [
         {
           text: '学习笔记',
           items: [
-            { text: 'Git 学习路线', link: '/posts/git-learning-path' },
-            { text: 'Rust 学习路线', link: '/posts/rust-learning-path' }
+            { text: 'Git 学习路线', link: '/study/git-learning-path' },
+            { text: 'rCore 学习路线', link: '/study/rcore-learning-path' }
           ]
         }
       ]
