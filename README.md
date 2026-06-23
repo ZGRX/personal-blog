@@ -1,6 +1,6 @@
-# Ricey 的个人博客
+# 学校餐厅记录
 
-这是一个用 VitePress 搭建的个人博客，用来记录生活、学校餐厅体验、学习笔记和一些日常想法。
+这是一个用 VitePress 搭建的学校餐厅记录博客，用来整理学校餐厅窗口图片、菜品体验和个人评价。
 
 线上地址：
 
@@ -8,12 +8,21 @@
 https://zgrx.github.io/personal-blog/
 ```
 
+## 当前内容
+
+目前主要记录五个餐厅：
+
+- 龙山厅
+- 凤凰厅
+- 天烛厅
+- 泰山厅
+- 傲徕厅
+
 ## 内容结构
 
 - `docs/index.md`：博客首页
 - `docs/about.md`：关于页
-- `docs/life/`：生活笔记，目前主要记录学校餐厅
-- `docs/study/`：学习笔记
+- `docs/life/`：餐厅记录页面和图片目录
 - `docs/.vitepress/config.mts`：VitePress 配置、导航和侧边栏
 
 ## 本地运行
@@ -51,6 +60,6 @@ npm run build
 ```bash
 git status
 git add <changed-files>
-git commit -m "update blog"
+git commit -m "update canteen blog"
 git push
 ```

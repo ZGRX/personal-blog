@@ -2,22 +2,22 @@
 layout: home
 
 hero:
-  name: Ricey 的博客
-  text: 生活记录 / 学习笔记
-  tagline: 一边记录普通生活里的瞬间，一边整理 Linux、Git、Rust 和 rCore 的学习过程。
+  name: 学校餐厅记录
+  text: 龙山厅 / 凤凰厅 / 天烛厅 / 泰山厅 / 傲徕厅
+  tagline: 记录学校餐厅窗口、菜品体验和自己的真实评价，方便以后吃饭前快速参考。
   actions:
     - theme: brand
-      text: 生活笔记
+      text: 查看餐厅记录
       link: /life/
     - theme: alt
-      text: 学习笔记
-      link: /study/
+      text: 关于这个博客
+      link: /about
 
 features:
-  - title: 生活笔记
-    details: 写一点今天发生的事，吃了什么，去了哪里，心情怎样。
-  - title: 学习笔记
-    details: 整理 Linux、Git、Rust 和 rCore 的学习路线、命令和问题记录。
-  - title: 想法和照片
-    details: 给一些突然冒出来的念头和照片留一点文字。
+  - title: 五个餐厅
+    details: 目前记录龙山厅、凤凰厅、天烛厅、泰山厅和傲徕厅。
+  - title: 窗口照片
+    details: 后续会补充各餐厅窗口图片，让选择更直观。
+  - title: 个人评价
+    details: 记录推荐窗口、推荐菜品、价格感受、口味评价和适合去的时间。
 ---
