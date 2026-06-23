@@ -10,13 +10,12 @@ https://zgrx.github.io/personal-blog/
 
 ## 当前内容
 
-目前主要记录五个餐厅：
+目前主要记录四个餐厅：
 
 - 龙山厅
 - 凤凰厅
 - 天烛厅
-- 泰山厅
-- 傲徕厅
+- 东岳厅
 
 ## 内容结构
 
@@ -24,6 +23,7 @@ https://zgrx.github.io/personal-blog/
 - `docs/about.md`：关于页
 - `docs/life/`：餐厅记录页面和图片目录
 - `docs/.vitepress/config.mts`：VitePress 配置、导航和侧边栏
+- `docs/.vitepress/theme/`：站点样式和页面切换动画
 
 ## 本地运行
 

@@ -1,0 +1,21 @@
+@media (prefers-reduced-motion: no-preference) {
+  .VPContent.page-enter {
+    animation: canteen-page-enter 260ms ease-out both;
+  }
+}
+
+@keyframes canteen-page-enter {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.vp-doc img {
+  border-radius: 8px;
+}
