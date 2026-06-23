@@ -17,9 +17,7 @@ export default defineConfig({
         {
           text: '生活笔记',
           items: [
-            { text: '从今天开始记录生活', link: '/life/start-life-blog' },
-            { text: '一个普通下午', link: '/life/ordinary-afternoon' },
-            { text: '最近想留下的事', link: '/life/recent-thoughts' }
+            { text: '学校餐厅记录', link: '/life/campus-canteens' }
           ]
         }
       ],
