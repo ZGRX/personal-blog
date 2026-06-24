@@ -16,11 +16,10 @@ export default defineConfig({
         {
           text: '餐厅记录',
           items: [
-            { text: '学校餐厅记录', link: '/life/campus-canteens' },
-            { text: '龙山厅', link: '/life/longshan' },
-            { text: '凤凰厅', link: '/life/fenghuang' },
-            { text: '天烛厅', link: '/life/tianzhu' },
-            { text: '东岳厅', link: '/life/dongyue' }
+            { text: '龙山厅★★★', link: '/life/longshan' },
+            { text: '凤凰厅★★★★★', link: '/life/fenghuang' },
+            { text: '天烛厅★★★★', link: '/life/tianzhu' },
+            { text: '东岳厅★★★★★', link: '/life/dongyue' }
           ]
         }
       ]
