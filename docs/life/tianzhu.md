@@ -4,9 +4,9 @@
 
 #### 手工水饺
 
-![Pasted image 20260624193908.png](./campus-canteens-images/pasted-20260624193908.png)
+![Pasted image 20260624193908.png](./campus-canteens-images/pasted-20260624193908.jpg)
 
-![Pasted image 20260624193933.png](./campus-canteens-images/pasted-20260624193933.png)
+![Pasted image 20260624193933.png](./campus-canteens-images/pasted-20260624193933.jpg)
 
 位置：天烛厅的东北角
 
@@ -19,9 +19,9 @@
 
 #### 牛扒or鸡扒 意面/米
 
-![Pasted image 20260624194009.png](./campus-canteens-images/pasted-20260624194009.png)
+![Pasted image 20260624194009.png](./campus-canteens-images/pasted-20260624194009.jpg)
 
-![Pasted image 20260624022924.png](./campus-canteens-images/pasted-20260624022924.png)
+![Pasted image 20260624022924.png](./campus-canteens-images/pasted-20260624022924.jpg)
 
 推荐指数：(★★★★☆  +  ★★★★★)/2   (4.5星)
 
@@ -33,7 +33,7 @@
 
 #### 炖顿湘
 
-![Pasted image 20260624194033.png](./campus-canteens-images/pasted-20260624194033.png)
+![Pasted image 20260624194033.png](./campus-canteens-images/pasted-20260624194033.jpg)
 
 位置：天烛厅
 
@@ -53,7 +53,7 @@
 
 清真牛肉拉面
 
-![Pasted image 20260624194210.png](./campus-canteens-images/pasted-20260624194210.png)
+![Pasted image 20260624194210.png](./campus-canteens-images/pasted-20260624194210.jpg)
 
 位置：天烛厅进门
 

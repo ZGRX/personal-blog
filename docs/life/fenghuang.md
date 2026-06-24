@@ -4,9 +4,9 @@
 
 #### 巧心婆（酸辣猪肘面）
 
-![Pasted image 20260624200455.png](./campus-canteens-images/pasted-20260624200455.png)
+![Pasted image 20260624200455.png](./campus-canteens-images/pasted-20260624200455.jpg)
 
-![Pasted image 20260624020852.png](./campus-canteens-images/pasted-20260624020852.png)
+![Pasted image 20260624020852.png](./campus-canteens-images/pasted-20260624020852.jpg)
 
 位置：凤凰厅南侧东南角
 
@@ -18,9 +18,9 @@
 
 #### 凤凰安徽板面
 
-![Pasted image 20260624200907.png](./campus-canteens-images/pasted-20260624200907.png)
+![Pasted image 20260624200907.png](./campus-canteens-images/pasted-20260624200907.jpg)
 
-![Pasted image 20260624200925.png](./campus-canteens-images/pasted-20260624200925.png)
+![Pasted image 20260624200925.png](./campus-canteens-images/pasted-20260624200925.jpg)
 
 图中是卤香猪肉面，至于板面的图，相册里没找到
 
@@ -35,7 +35,7 @@
 
 #### 凤凰自选菜
 
-![Pasted image 20260624023434.png](./campus-canteens-images/pasted-20260624023434.png)
+![Pasted image 20260624023434.png](./campus-canteens-images/pasted-20260624023434.jpg)
 
 位置：凤凰厅
 
@@ -45,7 +45,7 @@
 
 #### 早餐小笼包+豆腐脑
 
-![Pasted image 20260624024451.png](./campus-canteens-images/pasted-20260624024451.png)
+![Pasted image 20260624024451.png](./campus-canteens-images/pasted-20260624024451.jpg)
 
 位置：凤凰厅的一个角落（靠近放餐具的地方)
 
@@ -68,7 +68,7 @@
 
 #### 鸡架拌面
 
-![Pasted image 20260624201110.png](./campus-canteens-images/pasted-20260624201110.png)
+![Pasted image 20260624201110.png](./campus-canteens-images/pasted-20260624201110.jpg)
 
 位置：麻辣香锅旁边
 
@@ -78,7 +78,7 @@
 
 #### 牛肉泡馍
 
-![Pasted image 20260624200630.png](./campus-canteens-images/pasted-20260624200630.png)
+![Pasted image 20260624200630.png](./campus-canteens-images/pasted-20260624200630.jpg)
 
 推荐指数：★★★☆☆
 

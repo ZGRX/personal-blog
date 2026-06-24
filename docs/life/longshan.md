@@ -4,7 +4,7 @@
 
 #### 天下好面
 
-![Pasted image 20260624024109.png](./campus-canteens-images/pasted-20260624024109.png)
+![Pasted image 20260624024109.png](./campus-canteens-images/pasted-20260624024109.jpg)
 
 推荐指数：★★★★☆（还未搞到）
 
@@ -12,7 +12,7 @@
 
 #### 烈焰烧肉饭
 
-![Pasted image 20260624201218.png](./campus-canteens-images/pasted-20260624201218.png)
+![Pasted image 20260624201218.png](./campus-canteens-images/pasted-20260624201218.jpg)
 
 推荐指数：★★★★☆
 
@@ -20,7 +20,7 @@
 
 #### 牛杂面
 
-![Pasted image 20260624194427.png](./campus-canteens-images/pasted-20260624194427.png)
+![Pasted image 20260624194427.png](./campus-canteens-images/pasted-20260624194427.jpg)
 
 推荐指数：★★★☆☆～★★★★☆
 
@@ -30,7 +30,7 @@
 
 #### 正宗山东杂粮煎饼
 
-![Pasted image 20260624194924.png](./campus-canteens-images/pasted-20260624194924.png)
+![Pasted image 20260624194924.png](./campus-canteens-images/pasted-20260624194924.jpg)
 
 推荐指数：★★★☆☆
 
@@ -38,7 +38,7 @@
 
 #### 陕西面
 
-![Pasted image 20260624195125.png](./campus-canteens-images/pasted-20260624195125.png)
+![Pasted image 20260624195125.png](./campus-canteens-images/pasted-20260624195125.jpg)
 
 推荐指数：★★★☆☆
 
@@ -46,7 +46,7 @@
 
 #### 味思顿 辣椒炒肉
 
-![Pasted image 20260624195323.png](./campus-canteens-images/pasted-20260624195323.png)
+![Pasted image 20260624195323.png](./campus-canteens-images/pasted-20260624195323.jpg)
 
 推荐指数：★★★★☆
 
@@ -54,7 +54,7 @@
 
 #### 双拼饭+肉夹馍
 
-![Pasted image 20260624195537.png](./campus-canteens-images/pasted-20260624195537.png)
+![Pasted image 20260624195537.png](./campus-canteens-images/pasted-20260624195537.jpg)
 
 推荐指数：★★★★☆
 
@@ -62,7 +62,7 @@
 
 #### 小笼包
 
-![Pasted image 20260624200232.png](./campus-canteens-images/pasted-20260624200232.png)
+![Pasted image 20260624200232.png](./campus-canteens-images/pasted-20260624200232.jpg)
 
 推荐指数★★★☆☆
 
